@@ -12,5 +12,7 @@ public class App {
 
         System.out.println("Hello Git! dj first commit");
         System.out.println("Pull");
+        
+        System.out.println("Gitee!!");
     }
 }
