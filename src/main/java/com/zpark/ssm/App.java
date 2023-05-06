@@ -11,5 +11,6 @@ public class App {
         System.out.println("dj hotfix second commit");
 
         System.out.println("Hello Git! dj first commit");
+        System.out.println("Pull");
     }
 }
